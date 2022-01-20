@@ -10,3 +10,4 @@
 
 - 💬 Ask me about **cs, math, games and anime**
 
+<img src="assets/Shima_Rin_reading_SICP.jpg"/>
