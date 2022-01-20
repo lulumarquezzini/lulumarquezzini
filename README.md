@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Lulu!</h1>
 
-<h3 align="center">A Software Engineer and Computer Science student and a big linux lover! </h3>
+<h3 align="center">A Software Engineer, Computer Science student and a big linux lover! </h3>
 
 <h3 align="center">Software Engineer and Computer Science student</h3>
 
