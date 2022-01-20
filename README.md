@@ -2,8 +2,6 @@
 
 <h3 align="center">A Software Engineer, Computer Science student and a big linux lover! </h3>
 
-<h3 align="center">Software Engineer and Computer Science student</h3>
-
 - 🔭 I currently work as full-stack software engineer
 
 - 🌱 I’m currently learning **Rust**
